@@ -5,7 +5,7 @@
 
 * 快捷部署
    [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/v2hero/tree/core-latest)
- 
+* 修改点
 * 提问&建议
    https://github.com/onplus/v2hero/issues
    发起issue前请尽量先使用文档和搜索
